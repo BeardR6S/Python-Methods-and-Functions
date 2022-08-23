@@ -20,4 +20,3 @@ def greeting(**kwargs):
 
 greeting(first_name = 'Kristine', last_name = 'Hudgens') #returns Hi Kristine Hudgens, have a great day!
 greeting() #returns Hi Guest, have a great day!
-
